@@ -1,4 +1,4 @@
-# Dijkstra Fast Implementation
+# Dijkstra & Spark Implementation
 
 ## Prerequisites
 
